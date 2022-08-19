@@ -3,6 +3,7 @@ import appletv from "../commonResource/images/icons/apple-tv-logo.png";
 import banker from "../commonResource/images/home/banker.png";
 import watchseries5 from "../commonResource/images/icons/watch-series5-logo.png";
 import arcade from "../commonResource/images/icons/arcade.png";
+import YouTube from "./YouTube";
 function Main() {
   return (
     <div>
@@ -16,7 +17,7 @@ function Main() {
             right product or have a question on your order, chat online with a
             Specialist or call 1-800-MY-APPLE.
             <br />
-            For service and support, visit{" "}
+            For service and support, visit
             <a href="https://support.apple.com/">support.apple.com</a>
           </div>
         </div>
@@ -68,10 +69,12 @@ function Main() {
           <div className="links-wrapper">
             <ul>
               <li>
-                <a href="">Learn more</a>
+                <a href="https://www.apple.com/macbook-air-m2/">Learn more</a>
               </li>
               <li>
-                <a href="">Buy</a>
+                <a href="https://www.apple.com/us-edu/shop/buy-mac/macbook-air/with-m2-chip">
+                  Buy
+                </a>
               </li>
             </ul>
           </div>
@@ -255,6 +258,9 @@ function Main() {
         </div>
       </section>
       {/* <!-- Sixth section ends here --> */}
+      <section>
+        <YouTube />
+      </section>
     </div>
   );
 }

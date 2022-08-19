@@ -16,43 +16,64 @@ function Header() {
             >
               ☰
             </button>
-            <a className="navbar-brand mx-auto" href="#">
+            <a className="navbar-brand mx-auto" href="https://www.apple.com/">
               <img src={logo} alt="Logo" />
             </a>
             <div className="navbar-collapse collapse">
               <ul className="navbar-nav nav-justified w-100 nav-fill">
                 <li className="nav-item">
-                  <a className="nav-link js-scroll-trigger" href="/mac/">
+                  <a
+                    className="nav-link js-scroll-trigger"
+                    href="https://www.apple.com/mac/"
+                  >
                     Mac
                   </a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link js-scroll-trigger" href="#">
+                  <a
+                    className="nav-link js-scroll-trigger"
+                    href="https://www.apple.com/iphone/"
+                  >
                     iphone
                   </a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link js-scroll-trigger" href="#">
+                  <a
+                    className="nav-link js-scroll-trigger"
+                    href="https://www.apple.com/ipad/"
+                  >
                     ipad
                   </a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link js-scroll-trigger" href="#">
+                  <a
+                    className="nav-link js-scroll-trigger"
+                    href="https://www.apple.com/watch/"
+                  >
                     watch
                   </a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link js-scroll-trigger" href="#">
-                    tv
+                  <a
+                    className="nav-link js-scroll-trigger"
+                    href="https://www.apple.com/tv-home/"
+                  >
+                    TV-Home
                   </a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link js-scroll-trigger" href="#">
+                  <a
+                    className="nav-link js-scroll-trigger"
+                    href="https://www.apple.com/apple-music/"
+                  >
                     Music
                   </a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link js-scroll-trigger" href="#">
+                  <a
+                    className="nav-link js-scroll-trigger"
+                    href="https://support.apple.com/"
+                  >
                     Support
                   </a>
                 </li>

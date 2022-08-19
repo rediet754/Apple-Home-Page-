@@ -27,12 +27,10 @@ function Footer() {
                 href="https://www.goldmansachs.com/terms-and-conditions/Apple-Card-Customer-Agreement.pdf"
                 target="_blank"
               >
-                {" "}
                 Customer Agreement
               </a>
               . Additional iPhone Payments terms are{" "}
               <a href="https://www.apple.com/legal/sales-support/iphoneinstallments_us/">
-                {" "}
                 here
               </a>
               .
@@ -47,7 +45,7 @@ function Footer() {
               Apple TV+ is $4.99/month after free trial. One subscription per
               Family Sharing group. Offer good for 3 months after eligible
               device activation. Plan automatically renews until cancelled.
-              Restrictions and other{" "}
+              Restrictions and other
               <a href="https://www.apple.com/promo/">terms </a> apply.
             </p>
           </div>
@@ -56,37 +54,36 @@ function Footer() {
               <h3>Shop and Learn</h3>
               <ul>
                 <li>
-                  <a href="#">Mac</a>
+                  <a href="https://www.apple.com/mac/">Mac</a>
                 </li>
                 <li>
-                  <a href="#">iPad</a>
+                  <a href="https://www.apple.com/ipad/">iPad</a>
                 </li>
                 <li>
-                  <a href="#">iPhone</a>
+                  <a href="https://www.apple.com/iphone/">iPhone</a>
                 </li>
                 <li>
-                  <a href="#">Watch</a>
+                  <a href="https://www.apple.com/watch/">Watch</a>
                 </li>
                 <li>
-                  <a href="#">TV</a>
+                  <a href="https://www.apple.com/tv-home/">TV</a>
                 </li>
                 <li>
-                  <a href="#">Music</a>
+                  <a href="https://www.apple.com/apple-music/">Music</a>
                 </li>
                 <li>
-                  <a href="#">AirPods</a>
+                  <a href="https://www.apple.com/airpods/">AirPods</a>
                 </li>
                 <li>
-                  <a href="#">HomePod</a>
+                  <a href="https://www.apple.com/airtag/">AirTag</a>
                 </li>
                 <li>
-                  <a href="#">iPod touch</a>
+                  <a href="https://www.apple.com/shop/accessories/all">
+                    Accessories
+                  </a>
                 </li>
                 <li>
-                  <a href="#">Accessories</a>
-                </li>
-                <li>
-                  <a href="#">Gift Cards</a>
+                  <a href="https://www.apple.com/shop/gift-cards">Gift Cards</a>
                 </li>
               </ul>
             </div>
@@ -94,34 +91,36 @@ function Footer() {
               <h3>Services</h3>
               <ul>
                 <li>
-                  <a href="#">Apple Music</a>
+                  <a href="https://www.apple.com/apple-music/">Apple Music</a>
                 </li>
                 <li>
-                  <a href="#">Apple News+</a>
+                  <a href="https://www.apple.com/apple-news/">Apple News+</a>
                 </li>
                 <li>
-                  <a href="#">Apple TV+</a>
+                  <a href="https://www.apple.com/apple-tv-plus/">Apple TV+</a>
                 </li>
                 <li>
-                  <a href="#">Apple Arcade</a>
+                  <a href="https://www.apple.com/apple-arcade/">Apple Arcade</a>
                 </li>
                 <li>
-                  <a href="#">Apple Card</a>
+                  <a href="https://www.apple.com/apple-card/">Apple Card</a>
                 </li>
                 <li>
-                  <a href="#">iCloud</a>
+                  <a href="https://www.apple.com/icloud/">iCloud</a>
                 </li>
               </ul>
               <h3>Account</h3>
               <ul>
                 <li>
-                  <a href="#">Manage Your Apple ID</a>
+                  <a href="https://appleid.apple.com/">Manage Your Apple ID</a>
                 </li>
                 <li>
-                  <a href="#">Apple Store Account</a>
+                  <a href="https://secure2.store.apple.com/shop/signIn/account?ssi=1AAABgo0fwT4glZVYnVhT_o3idPguT-ZplYs3pTWnYk1yFMn7TECzI-kAAAAzaHR0cHM6Ly9zZWN1cmUyLnN0b3JlLmFwcGxlLmNvbS9zaG9wL2FjY291bnQvaG9tZXx8AAIBP-6GjGpl1Ci5W2w-Br2Hb1J6gWaVzu20kVGx3bIZIGI">
+                    Apple Store Account
+                  </a>
                 </li>
                 <li>
-                  <a href="#">iCloud.com</a>
+                  <a href="https://www.icloud.com/">iCloud.com</a>
                 </li>
               </ul>
             </div>
@@ -129,37 +128,48 @@ function Footer() {
               <h3>Apple Store</h3>
               <ul>
                 <li>
-                  <a href="#">Find a Store</a>
+                  <a href="https://www.apple.com/retail/">Find a Store</a>
                 </li>
                 <li>
-                  <a href="#">Genius Bar</a>
+                  <a href="https://www.apple.com/retail/geniusbar/">
+                    Genius Bar
+                  </a>
                 </li>
                 <li>
-                  <a href="#">Today at Apple</a>
+                  <a href="https://www.apple.com/today/">Today at Apple</a>
                 </li>
                 <li>
-                  <a href="#">Apple Camp</a>
+                  <a href="https://www.apple.com/today/collection/apple-camp/">
+                    Apple Camp
+                  </a>
                 </li>
                 <li>
-                  <a href="#">Field Trip</a>
+                  <a href="https://apps.apple.com/us/app/apple-store/id375380948">
+                    Apple Store App
+                  </a>
                 </li>
                 <li>
-                  <a href="#">Apple Store App</a>
+                  <a href="https://www.apple.com/shop/refurbished">
+                    Refurbished and Clearance
+                  </a>
                 </li>
                 <li>
-                  <a href="#">Refurbished and Clearance</a>
+                  <a href="https://www.apple.com/shop/browse/financing">
+                    Financing
+                  </a>
                 </li>
                 <li>
-                  <a href="#">Financing</a>
+                  <a href="https://www.apple.com/shop/trade-in">
+                    Apple Trade In
+                  </a>
                 </li>
                 <li>
-                  <a href="#">Apple Trade In</a>
+                  <a href="https://secure2.store.apple.com/shop/signIn/orders?ssi=1AAABgo0lUgQgBIN-k8ihEo3HoQYjgsIs8SownCNwynKSVapimQn-bp8AAAAxaHR0cHM6Ly9zZWN1cmUyLnN0b3JlLmFwcGxlLmNvbS9zaG9wL29yZGVyL2xpc3R8fAACARZwD8eYbp2ZpmM8MMRmOa7sIkQd-OpfCCi_p_5xULmn">
+                    Order Status
+                  </a>
                 </li>
                 <li>
-                  <a href="#">Order Status</a>
-                </li>
-                <li>
-                  <a href="#">Shopping Help</a>
+                  <a href="https://www.apple.com/shop/help">Shopping Help</a>
                 </li>
               </ul>
             </div>
@@ -167,40 +177,63 @@ function Footer() {
               <h3>For Business</h3>
               <ul>
                 <li>
-                  <a href="#">Apple and Business</a>
+                  <a href="https://www.apple.com/business/">
+                    Apple and Business
+                  </a>
                 </li>
                 <li>
-                  <a href="#">Shop for Business</a>
+                  <a href="https://www.apple.com/retail/business/">
+                    Shop for Business
+                  </a>
                 </li>
               </ul>
               <h3>For Education</h3>
               <ul>
                 <li>
-                  <a href="#">Apple and Education</a>
+                  <a href="https://www.apple.com/education/">
+                    Apple and Education
+                  </a>
                 </li>
                 <li>
-                  <a href="#">Shop for College</a>
+                  <a href="https://www.apple.com/education/k12/how-to-buy/">
+                    Shop for K-12
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.apple.com/us-edu/store">
+                    Shop for College
+                  </a>
                 </li>
               </ul>
               <h3>For Healthcare</h3>
               <ul>
                 <li>
-                  <a href="#">Manage Your Apple ID</a>
+                  <a href="https://www.apple.com/healthcare/">
+                    Apple in Healthcare
+                  </a>
                 </li>
                 <li>
-                  <a href="#">Apple Store Account</a>
+                  <a href="https://www.apple.com/healthcare/apple-watch/">
+                    Health on Apple Watch
+                  </a>
                 </li>
                 <li>
-                  <a href="#">iCloud.com</a>
+                  <a href="https://www.apple.com/healthcare/health-records/">
+                    Health Records on iphone
+                  </a>
                 </li>
               </ul>
               <h3>For Government</h3>
               <ul>
                 <li>
-                  <a href="#">Apple and Education</a>
+                  <a href="https://www.apple.com/r/store/government/">
+                    Shope for Government
+                  </a>
                 </li>
                 <li>
-                  <a href="#">Shop for College</a>
+                  <a href="https://www.apple.com/us-edu/shop/browse/home/veterans_military">
+                    Shop for Veterans and Military
+                  </a>
                 </li>
               </ul>
             </div>
@@ -208,50 +241,75 @@ function Footer() {
               <h3>Apple Values</h3>
               <ul>
                 <li>
-                  <a href="#">Find a Store</a>
+                  <a href="https://www.apple.com/accessibility/">
+                    Accessibility
+                  </a>
                 </li>
                 <li>
-                  <a href="#">Genius Bar</a>
+                  <a href="https://www.apple.com/connectED/">Education</a>
                 </li>
                 <li>
-                  <a href="#">Today at Apple</a>
+                  <a href="https://www.apple.com/environment/">Environment</a>
                 </li>
                 <li>
-                  <a href="#">Apple Camp</a>
+                  <a href="https://www.apple.com/diversity/">
+                    Inclusion and Diversity
+                  </a>
                 </li>
                 <li>
-                  <a href="#">Field Trip</a>
+                  <a href="https://www.apple.com/privacy/">Privacy</a>
                 </li>
                 <li>
-                  <a href="#">Apple Store App</a>
+                  <a href="https://www.apple.com/racial-equity-justice-initiative/">
+                    Racial Equity and Justice
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.apple.com/supplier-responsibility/">
+                    Supplier Responsibility
+                  </a>
                 </li>
               </ul>
               <h3>About Apple</h3>
               <ul>
                 <li>
-                  <a href="#">Find a Store</a>
+                  <a href="https://www.apple.com/newsroom/">Newsroom</a>
                 </li>
                 <li>
-                  <a href="#">Genius Bar</a>
+                  <a href="https://www.apple.com/leadership/">
+                    Apple Leadership
+                  </a>
                 </li>
                 <li>
-                  <a href="#">Today at Apple</a>
+                  <a href="https://www.apple.com/careers/us/">
+                    Career Opportunities
+                  </a>
                 </li>
                 <li>
-                  <a href="#">Apple Camp</a>
+                  <a href="https://investor.apple.com/investor-relations/default.aspx">
+                    Investors
+                  </a>
                 </li>
                 <li>
-                  <a href="#">Field Trip</a>
+                  <a href="https://www.apple.com/compliance/">
+                    Ethincs & Compliance
+                  </a>
                 </li>
                 <li>
-                  <a href="#">Apple Store App</a>
+                  <a href="https://www.apple.com/apple-events/">Events</a>
+                </li>
+                <li>
+                  <a href="https://www.apple.com/contact/">Contact Apple</a>
                 </li>
               </ul>
             </div>
           </div>
           <div className="my-apple-wrapper">
-            More ways to shop: <a href="#">Find an Apple Store</a> or{" "}
-            <a href="#">other retailer</a> near you. Or call 1-800-MY-APPLE.
+            More ways to shop:
+            <a href="https://www.apple.com/retail/">
+              Find an Apple Store
+            </a> or <a href="https://locate.apple.com/">other retailer</a> near
+            you. Or call 1-800-MY-APPLE.
           </div>
           <div className="copyright-wrapper row">
             <div className="copyright col-sm-12 order-2 col-md-8 order-md-1 col-lg-4 order-lg-1">
@@ -260,19 +318,25 @@ function Footer() {
             <div className="footer-links-terms  col-sm-12 order-3 col-lg-6 order-lg-2">
               <ul>
                 <li>
-                  <a href="#">Privacy Policy</a>
+                  <a href="https://www.apple.com/legal/privacy/">
+                    Privacy Policy
+                  </a>
                 </li>
                 <li>
-                  <a href="#">Terms of Use</a>
+                  <a href="https://www.apple.com/legal/internet-services/terms/site.html">
+                    Terms of Use
+                  </a>
                 </li>
                 <li>
-                  <a href="#">Sales and Refunds</a>
+                  <a href="https://www.apple.com/us-edu/shop/browse/open/salespolicies">
+                    Sales and Refunds
+                  </a>
                 </li>
                 <li>
-                  <a href="#">Legal</a>
+                  <a href="https://www.apple.com/legal/">Legal</a>
                 </li>
                 <li>
-                  <a href="#">Site Map</a>
+                  <a href="https://www.apple.com/sitemap/">Site Map</a>
                 </li>
               </ul>
             </div>
